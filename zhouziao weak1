@@ -1,0 +1,40 @@
+Assignment 1, 23.09.2021
+Author: Zizao Zhou
+(1) Analyze an electric heater as a system following Example 1.1.
+
+Answer:Electric heater.Let us analyze here how one could analyze a given electric heater as a system
+based on its peculiar operation and its necessary conditions of existence.
+ OP Peculiar operation: Convert electric power to heat power
+ C1 Condition of production: Different electric machine that can convert electric power into
+heat power via some phenomena.
+ C2 Condition of reproduction: Proper maintenance,connection to the grid.
+ C3 External conditions: Specialized university to train personal to work, investments of the
+government
+
+(2) Give one example for each scientific rationalities presented in Section 1.2.1 similar to Example 1.2.
+
+Answer:Effectiveness of antibiotic. There are many people defending theor position questionong the
+effectiveness of antibiotic, and arguing that antibiotic should not be used by special groups.
+Abusing of antibiotic will increasing bacterial resistance.
+ 
+ Classical: Effectiveness of antibiotic is regulated by norms, historically established by the
+scientific community and government.
+ 
+ Non-classical: The effect of antibiotic can be computed by the experiment.
+ 
+ Interventionist: Once the mechanisms of how the particular epidemic characterization of a
+given disease, the researchers and public health professionals may become part of the
+phenomena they investigate by designing interventions to help stopping the disrase.
+
+
+(3) Download the air temperature data of one year from FMI at the city/region you currently live. Make four (arbitrary) time series plots for one year, one month, one week and one day.
+
+Hint: Code like in the tutorial notebook.
+
+
+(4) Consider a house with an electric heater. How the electricity consumption of the heater would be affected by the air temperature? Is there a way to change this?
+
+Answer:The higher the air temperature, the higher the electricity consumption of the heater. We can
+improve the structure of the house so that it stays warm in the winter and cool in the summer, or we can
+also use air conditioners to assist heating while using electric heaters, because air conditioners save more
+electricity than electric heaters.
